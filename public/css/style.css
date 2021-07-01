@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: sans-serif;
+    background:#30336b;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #f4f4f4;
+}
+.group-from{
+    width: 500px;
+    height: 250px;
+    border: 2px solid black;
+}
+#data{
+    padding: 10px;
+    margin: 10px;
+}
